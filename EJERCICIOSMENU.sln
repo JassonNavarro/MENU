@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICIOSMENU", "EJERCICIOSMENU\EJERCICIOSMENU.csproj", "{498445D9-75B8-4921-A791-CDDAEB558286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498445D9-75B8-4921-A791-CDDAEB558286}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD412BA7-621F-4359-82E4-D296785A34E1}
+	EndGlobalSection
+EndGlobal
