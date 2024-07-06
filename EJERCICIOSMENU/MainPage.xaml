@@ -9,7 +9,7 @@
             Padding="30,0"
             Spacing="25">
             <Button Text="CAMBIO CLIENTE" BackgroundColor="Aqua"/>
-            <Button Text="ByA TRIANGULO" BackgroundColor="Red"/>
+            <Button Text="ByA TRIANGULO" BackgroundColor="Red" Clicked="Button_Clicked"/>
             <Button Text="DINOSAURIO" BackgroundColor="Green"/>
             <Button Text="GASOLINERIA" BackgroundColor="Pink"/>
         </VerticalStackLayout>
