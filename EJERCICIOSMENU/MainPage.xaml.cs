@@ -12,6 +12,16 @@
         {
             Navigation.PushAsync(new SuperficieDtriangulo());
         }
+
+        private void Button_Clicked_1(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Dinero());
+        }
+
+        private void Button_Clicked_2(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Gasolina());
+        }
     }
 
 }
