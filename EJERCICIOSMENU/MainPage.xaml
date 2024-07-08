@@ -10,7 +10,7 @@
             Spacing="25">
             <Button Text="CAMBIO CLIENTE" BackgroundColor="Aqua" Clicked="Button_Clicked_1"/>
             <Button Text="ByA TRIANGULO" BackgroundColor="Red" Clicked="Button_Clicked"/>
-            <Button Text="DINOSAURIO" BackgroundColor="Green"/>
+            <Button Text="DINOSAURIO" BackgroundColor="Green" Clicked="Button_Clicked_3"/>
             <Button Text="GASOLINERIA" BackgroundColor="Pink" Clicked="Button_Clicked_2"/>
         </VerticalStackLayout>
     </ScrollView>

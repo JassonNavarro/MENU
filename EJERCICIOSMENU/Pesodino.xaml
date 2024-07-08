@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EJERCICIOSMENU.Pesodino"
+             Title="Pesodino"
+            BackgroundColor="White">
+    <StackLayout Padding="20">
+        <Image Source="dino.png" WidthRequest="150" HeightRequest="150"/>
+        <Entry Placeholder="Nombre del dinosaurio" x:Name="txtNombre" TextColor="Black"/>
+        <Entry Placeholder="Peso en kg" x:Name="txtPeso" TextColor="Black"/>
+        <Entry Placeholder="Altura en metros" x:Name="txtAltura" TextColor="Black" />
+
+        <Button Text="Calcular" Clicked="Button_Clicked" BackgroundColor="Goldenrod"/>
+
+        <Label x:Name="lblResultado" TextColor="Black" />
+    </StackLayout>
+</ContentPage>
