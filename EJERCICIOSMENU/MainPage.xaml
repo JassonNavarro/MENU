@@ -8,10 +8,10 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <Button Text="CAMBIO CLIENTE" BackgroundColor="Aqua"/>
+            <Button Text="CAMBIO CLIENTE" BackgroundColor="Aqua" Clicked="Button_Clicked_1"/>
             <Button Text="ByA TRIANGULO" BackgroundColor="Red" Clicked="Button_Clicked"/>
             <Button Text="DINOSAURIO" BackgroundColor="Green"/>
-            <Button Text="GASOLINERIA" BackgroundColor="Pink"/>
+            <Button Text="GASOLINERIA" BackgroundColor="Pink" Clicked="Button_Clicked_2"/>
         </VerticalStackLayout>
     </ScrollView>
 
